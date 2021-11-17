@@ -57,11 +57,11 @@ No previous knowledge on Django or Python is required, but you should have basic
 ## Get to Know the Authors
 
 **Greg Lim**
-Greg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing. 
+is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing. 
 
 Contact Greg on Twitter at @greglim81
 
 **Daniel Correa**
-Daniel Correa is a researcher and has been a software developer for several years. Daniel has a Ph.D. in Computer Science; currently he is a professor at Universidad EAFIT in Colombia. He is interested in software architectures, frameworks (such as Laravel, Django, Express, Vue, React, Angular, and many more), web development, and clean code. 
+is a researcher and has been a software developer for several years. Daniel has a Ph.D. in Computer Science; currently he is a professor at Universidad EAFIT in Colombia. He is interested in software architectures, frameworks (such as Laravel, Django, Express, Vue, React, Angular, and many more), web development, and clean code. 
 
 Contact Daniel on Twitter at @danielgarax
